@@ -19,7 +19,7 @@ Simple and optimized React Form Signup Login [( See Demo )](https://diwa-signup-
 
 Make sure you have the latest Stable or LTS version of Node.js installed.
 
-1. `git clone https://github.com/am-abazari/React-Form-Signup-Login`
+1. `git clone https://github.com/diwakars652/react_signup-from`
 2. Run `npm install` or `yarn install`
 3. Start the dev server using `npm start`
 4. Open [http://localhost:3000/](http://localhost:3000/)
@@ -53,6 +53,3 @@ The project is using the <strong>JsonPlaceholder API</strong>. All configuration
 
 The coverage report consists of an HTML reporter, which can be viewed in the browser and some helper coverage files like the coverage json file.
 
-## About Author
-
-<strong>Amirhossein Abazari</strong> Full-Stack Web Developer
